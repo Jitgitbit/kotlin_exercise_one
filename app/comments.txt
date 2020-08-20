@@ -9,3 +9,10 @@ git push -u origin master
 
 THEN KEEP IT SYNC
 git add .
+git commit -m 'second'
+gst
+git push origin
+git add .
+git commit -m 'third'
+gst
+git push origin
