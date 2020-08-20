@@ -1,4 +1,11 @@
 git init
 git add .
 git commit -m 'first'
+gst
+
 THEN GITHUB STUFF
+git remote add origin https://github.com/Jitgitbit/kotlin_exercise_one.git
+git push -u origin master
+
+THEN KEEP IT SYNC
+git add .
