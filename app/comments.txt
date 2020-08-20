@@ -16,3 +16,12 @@ git add .
 git commit -m 'third'
 gst
 git push origin
+gst
+AND SO ON...
+
+LET'S ROLL
+git add .
+git commit -m 'exploring with kotlin syntax, (pretty standard)'
+gst
+git push origin
+gst
